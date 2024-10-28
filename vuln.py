@@ -12,6 +12,8 @@ def vulnerable_input():
             buffer[i] = ord(user_input[i])  # Vulnerable to overflow with large input
     except IndexError:
         print("34669e2a04f37e42d2bb99bd5c82ca8e3c604c4be0d5d403989e432352ee00bb4fec893ac7f9df700665c95fa8a5ed38")
+        print("5ac5e1a47afd9e79c5c7bb5cde5a4669f6cabf9f")
+        print("mfurtfdtkw{/e0krJti1gkBzuuz3_23049835ruwj}/")
     
     print("Stored data:", buffer.decode(errors="ignore"))
 
