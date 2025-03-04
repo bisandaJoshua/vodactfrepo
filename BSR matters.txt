@@ -1,0 +1,117 @@
+Call signature matters
+Customer portal - SSO Integration?
+Call Signature and Vishing Attacks
+
+Akiba
+Azania
+Pesaport
+
+-----------------------
+BSR Enhancement.
+Qn in Basic information: What is the size of your organization? 
+
+Tomorrow CoB send an email availing yourself for the session on the 7th floor with the business team about the new BSR questions. 
+
+-------------------------
+
+TPF and Vodacom members sso integration? 
+Valid mails check and validation?
+
+Pentest done on the platform?
+
+Fetching data should be done based on system owner's permissions
+
+what is stopping me from copying the data and saving it somewhere else?
+
+-------------------------
+
+Task 1 - assign all BSRs and Assessments to partners. 
+
+-------------------------
+Support for linux systems
+Difference with existing solutions - EDR Defender
+
+
+API requests... 
+-----------------------------
+registration
+logging in 
+pull information 
+stanbic
+tigopesa
+airtel 
+-----------------------------
+vodacom
+-----------------------------
+2.2 The last in-house security test report
+-----------------------------
+2.25
+front page ---> Final external pentester
+web, mobile driver, mobile customer
+-----------------------------------------------------------------------------------------------------------------
+
+
+Follow-up on Burp Suite Pro Licensing. 
+Amend CyberArk OPEX License with Brian.
+INCA (OPEX and CAPEX) updates on progress made by Raymond - alignment with Finance. Do we have the money Group wants us to pay or not?
+API Security - Is there a tool to be used?
+
+DPA - SAKSHATH technologies...
+
+------------------------------------------------
+
+Show what more we have incorporated - VAS, Risks, logic, etc...
+How many questions were there before vs how many questions are there now... 
+At a minimum how many questions will a vendor answer and at a maximum, how many questions will they answer... 
+Plan for the second pilot dates and completion... 
+
+-----------------------------------------------------------------------
+
+Show how to capitalize existing resources. 
+
+how will we determine which vendors will have to fill out the assessment? Use our policies as a reference based on the criteria and cycles to be used.  
+
+Backlog items - how will we approach them? 
+
+-----------------------------------------------------------------------
+
+SETO - close and respond via email. 
+API Gateway - close and respond via email. 
+Kibuti - pushed to API gateway. 
+SIM Backup - complete full deployment first. 
+Digital Virgo - Pentest is pending. 
+
+
+
+
+
+--------------------
+Mobileum, Inc.	Maintenance & Support for Roaming GW Platform
+
+
+
+We are launch 2 IVR Voice based services as mentioned below.
+
+SCS tool Secure - Software development assessment questions.
+
+
+
+
+
+
+
+Huawei - SGSN GGSN - packet core systems  - streaming service
+		- OSS supporting system. 
+
+
+
+
+
+
+
+
+
+
+
+
+
